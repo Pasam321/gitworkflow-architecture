@@ -1,2 +1,5 @@
 this code is into production
 
+<<<<<<
+feature1
+>>>>>>
