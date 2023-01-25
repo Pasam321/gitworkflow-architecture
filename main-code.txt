@@ -1,5 +1,11 @@
 this code is into production
+<<<<<<< HEAD
 
 <<<<<<
 feature1
 >>>>>>
+=======
+ <<<<<<<<<<<<<<<<<
+feature-2
+>>>>>>>>>>>
+>>>>>>> aa88054 (feature-2 first commit)
